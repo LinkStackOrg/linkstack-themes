@@ -14,7 +14,7 @@
 
 
 <a name="themes"></a>
-<br><br><h1>Themes:</h1>
+<br><br><h1>🌇 Themes:</h1>
 
 <!--Begin Mono-->
 <br><h2>Mono</h2>
@@ -34,7 +34,7 @@
 
 
 <a name="add-themes"></a>
-<br><br><h1>How to add themes</h1>
+<br><br><h1>ℹ️ How to add themes</h1>
 <h3>How to add themes to your LittleLink Custom instance</h3>
 
 <p>You can add your downloaded themes to your LittleLink Custom instance on the Admin Panel. Navigate to the 'Themes' tab and scroll to the bottom of the page.</p>
@@ -43,7 +43,7 @@
 
 
 <a name="contribute"></a>
-<br><br><h1>Contribute</h1>
+<br><br><h1>🫂 Contribute</h1>
 <h3>Contribute by making your own custom themes. Read more about this by clicking the link below.</h3>
 
 <h3><a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a></h3>
