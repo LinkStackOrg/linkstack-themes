@@ -3,18 +3,19 @@
 
 
 
-1. [Fork the template repository](#contribute) -> [github.com/JulianPrieber/llc-default](https://github.com/JulianPrieber/llc-default)
-2. [Edit the CSS](#contribute)
-3. [Draft a new release with a version tag](#contribute)
-4. [Open a new pull request or issue on this repository](#contribute)
+1. [Fork the template repository](#1) -> [github.com/JulianPrieber/llc-default](https://github.com/JulianPrieber/llc-default)
+2. [Edit the CSS](#2)
+3. [Draft a new release with a version tag](#3)
+4. [Open a new pull request or issue on this repository](#4)
 
 
-
+<a name="1"></a>
 ## 1. Fork the template repository
 Make a fork of this [template repository](https://github.com/JulianPrieber/llc-default). Here you can find the theme files for the default theme.
 
 <br>
 
+<a name="2"></a>
 ## 2. Edit the CSS
 Customize the files to fit your idea.
 
@@ -26,11 +27,13 @@ Make sure to include a preview image of your theme. This preview image should sh
 
 <br>
 
+<a name="3"></a>
 ## 3. Draft a new release with a version tag
 Create a new release for your theme in your forked repository. The download URL for that release will later be used to download the font. Create a new tag for your new release. Your first tag should always be v1.0.
 
 <br>
 
+<a name="4"></a>
 ## 4. Open a new pull request or issue on this repository
 Once you followed all these steps, you may [open a pull request or issue](https://github.com/JulianPrieber/llc-themes) on this repository to get included in the official theme list.
 
