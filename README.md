@@ -53,4 +53,4 @@
 <h1>🫂 Contribute</h1>
 <h3>Contribute by making your own custom themes. Read more about this by clicking the link below.</h3>
 
-<h4><a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a></h4>
+<a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a>
