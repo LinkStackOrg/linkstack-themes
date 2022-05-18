@@ -25,7 +25,7 @@
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF"></img>-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/mono/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://github.com/JulianPrieber/mono/archive/refs/tags/v1.0.zip">Download</a></h3>
 <br><hr>
