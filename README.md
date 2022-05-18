@@ -18,6 +18,8 @@
 
 <!--Begin Mono-->
 <br><h2>Mono</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>The Mono Theme is a minimalist theme that resembles a terminal interface. Mono has a fixed dark background color and a monospaced font.</p>
 <!--If theme supports both dark and light mode uncomment both below-->
