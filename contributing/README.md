@@ -8,6 +8,7 @@
 3. [Draft a new release with a version tag](#3)
 4. [Open a new pull request or issue on this repository](#4)
 
+<br>
 
 <a name="1"></a>
 ## 1. Fork the template repository
