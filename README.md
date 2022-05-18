@@ -27,8 +27,8 @@
 <p>The Mono Theme is a minimalist theme that resembles a terminal interface. Mono has a fixed dark background color and a monospaced font.</p>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000"></img>
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF"></img>-->
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
