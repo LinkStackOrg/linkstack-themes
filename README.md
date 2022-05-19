@@ -37,6 +37,8 @@
 <br>
 <!--End Mono-->
 
+
+
 <!--Begin Galaxy-->
 <br>
 <h2>Galaxy</h2>
@@ -55,6 +57,30 @@
 <h3>&emsp;<a href="https://github.com/JulianPrieber2/galaxy/archive/refs/tags/v1.0.zip">Download</a></h3>
 <br>
 <!--End Galaxy-->
+
+
+
+<!--Begin Minceraft-->
+<br>
+<h2>Minceraft</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>Made to resemble the Minecraft title screen as closely as possible. The theme ads a rotating background image. Due to the assets, used this theme can only be used in a non-commercial environment.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Minceraft-->
+
+
+
 
 <a name="add-themes"></a>
 <br><br>
