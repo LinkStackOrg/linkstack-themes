@@ -37,6 +37,24 @@
 <br>
 <!--End Mono-->
 
+<!--Begin Galaxy-->
+<br>
+<h2>Galaxy</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber2/galaxy/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Galaxy-->
 
 <a name="add-themes"></a>
 <br><br>
