@@ -104,7 +104,7 @@
 
 <!--Begin Winter Wonderland-->
 <br>
-<h2>Bean Soup</h2>
+<h2>Winter Wonderland</h2>
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
