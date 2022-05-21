@@ -102,6 +102,26 @@
 
 
 
+<!--Begin Winter Wonderland-->
+<br>
+<h2>Bean Soup</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>Winter themed landscape with a falling snow animation in the background.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Winter Wonderland-->
+
+
 
 <a name="add-themes"></a>
 <br><br>
