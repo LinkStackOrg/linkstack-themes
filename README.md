@@ -121,6 +121,34 @@
 <br>
 <!--End Winter Wonderland-->
 
+<br>
+<h1>🌆 Reskins:</h1>
+<h3>Themes that are simple modifications of existing themes.</h3>
+
+
+<!--Begin LLC Vanilla-->
+<br>
+<h2>LLC Vanilla</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Author-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
+<!--Short description-->
+<p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/llc-vanilla/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End LLC Vanilla-->
+
+
+
 
 
 <a name="add-themes"></a>
