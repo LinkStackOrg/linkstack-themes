@@ -8,6 +8,7 @@
 <strong>Table of contents:</strong>
 <ul>
   <li><a href="#themes">Download Themes</a></li>
+  <li><a href="#reskins">Reskins</a></li>
   <li><a href="#add-themes">How to add themes</a></li>
   <li><a href="#contribute">Contribute</a></li>
 </ul> 
@@ -122,6 +123,7 @@
 <!--End Winter Wonderland-->
 
 <br>
+<a name="reskins"></a>
 <h1>🌆 Reskins:</h1>
 <h3>Themes that are simple modifications of existing themes.</h3>
 
