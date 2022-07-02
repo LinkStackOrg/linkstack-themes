@@ -102,6 +102,25 @@
 <!--End Bean Soup-->
 
 
+<!--Begin SoT-->
+<br>
+<h2>SoT</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>A Theme inspired by the game Sea of Thieves. The Theme resembles the look of the game as well as the official website SeaOfThieves.com. Names, artworks, as well as other assets used may be subject to copyright and belong to the Microsoft Cooperation. 
+Non-commercial use only.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/SoT/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End SoT-->
+
 
 <!--Begin Winter Wonderland-->
 <br>
@@ -133,7 +152,7 @@
 <h2>LLC Vanilla</h2>
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
-<!--Author-->
+<!--Reskin source-->
 <strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
 <!--Short description-->
 <p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
@@ -148,7 +167,6 @@
 <h3>&emsp;<a href="https://github.com/JulianPrieber/llc-vanilla/archive/refs/tags/v1.0.zip">Download</a></h3>
 <br>
 <!--End LLC Vanilla-->
-
 
 
 
