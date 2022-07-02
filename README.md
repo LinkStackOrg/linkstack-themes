@@ -1,7 +1,7 @@
 <h1>🖌️ LittleLink Custom Themes</h1>
 <h3>LittleLink Custom themes to customize your personal page.</h3>
 
-<em>⚠️ Note that this page contains user generated content</em>
+⚠️ <em>Note that this page contains user generated content</em>
 
 <br>
 
