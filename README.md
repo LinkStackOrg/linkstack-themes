@@ -67,7 +67,7 @@
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
-<p>Made to resemble the Minecraft title screen as closely as possible. The theme ads a rotating background image. Due to the assets, used this theme can only be used in a non-commercial environment.</p>
+<p>Made to resemble the Minecraft title screen as closely as possible. The theme adds a rotating background image. Due to the assets, used this theme can only be used in a non-commercial environment.</p>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
