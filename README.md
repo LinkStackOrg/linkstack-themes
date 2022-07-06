@@ -76,7 +76,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.2.zip">Download</a></h3>
 <br>
 <!--End Minceraft-->
 
