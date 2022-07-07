@@ -194,6 +194,8 @@ Non-commercial use only.</p>
 <h2>Sublime</h2>
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Reskin source-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/flare">Flare</a>
 <!--Short description-->
 <p>A simple color swap of the minimalist theme Flare.</p>
 <!--If theme supports both dark and light mode uncomment both below-->
