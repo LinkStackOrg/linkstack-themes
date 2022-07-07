@@ -141,6 +141,26 @@ Non-commercial use only.</p>
 <br>
 <!--End Winter Wonderland-->
 
+
+<!--Begin Winter Flare-->
+<br>
+<h2>Flare</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>Minimalist theme with bright warm colors and light, inviting contrasts.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Winter Flare-->
+
 <br>
 <a name="reskins"></a>
 <h1>🌆 Reskins:</h1>
@@ -168,6 +188,25 @@ Non-commercial use only.</p>
 <br>
 <!--End LLC Vanilla-->
 
+
+<!--Begin Sublime-->
+<br>
+<h2>Sublime</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>A simple color swap of the minimalist theme Flare.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Sublime-->
 
 
 
