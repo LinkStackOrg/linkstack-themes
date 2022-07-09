@@ -161,11 +161,11 @@ Non-commercial use only.</p>
 <br>
 <!--End Winter Flare-->
 
-<br>
+<br><br><br>
 <a name="reskins"></a>
 <h1>🌆 Reskins:</h1>
 <h3>Themes that are simple modifications of existing themes.</h3>
-
+<br>
 
 <!--Begin LLC Vanilla-->
 <br>
