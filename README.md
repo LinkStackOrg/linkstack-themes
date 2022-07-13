@@ -88,7 +88,8 @@
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
-<p>Bean Soup resembles the logo of the VR title Beat Saber. This theme features animated button gradients and a glow effect on hover. The page description is used for the blue text, meaning setting a page description is  effectively not possible with this theme.</p>
+<p>Bean Soup resembles the logo of the VR title Beat Saber. This theme features animated button gradients and a glow effect on hover. 
+<strong>The page description is used for the blue text, meaning setting a page description is  effectively not possible with this theme.</strong></p>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
