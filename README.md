@@ -8,7 +8,7 @@
 <strong>Table of contents:</strong>
 <ul>
   <li><a href="#themes">Download Themes</a></li>
-  <li><a href="#reskins">Reskins</a></li>
+  <ul><li><a href="#reskins">Reskins</a></li></ul>
   <li><a href="#add-themes">How to add themes</a></li>
   <li><a href="#contribute">Contribute</a></li>
 </ul> 
