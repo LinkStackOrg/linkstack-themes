@@ -173,6 +173,28 @@ Non-commercial use only.</p>
 <h3>Themes that are simple modifications of existing themes.</h3>
 <br>
 
+
+<!--Begin Aurora-->
+<br>
+<h2>Aurora</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://me.unraid.nz/@kiwi">KiwiSin</a>
+<!--Reskin source-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
+<!--Short description-->
+<p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+</p>
+<!--Preview image from your fork-->
+<img src="https://themes.littlelink-custom.com/aurora/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://themes.littlelink-custom.com/aurora/aurora-1.0.zip">Download</a></h3>
+<br>
+<!--End Aurora-->
+
+
 <!--Begin LLC Vanilla-->
 <br>
 <h2>LLC Vanilla</h2>
