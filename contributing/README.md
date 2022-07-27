@@ -26,13 +26,13 @@ Default theme uses `prefers-color-scheme` to switch between dark and light mode.
 
 Make sure to include a preview image of your theme. This preview image should show both dark and light mode, if applicable. You may add custom text or descriptions to this image, just make it an adequate representation of your theme. Please keep this image in a `16:9` aspect ratio and don't scale it higher than `1920x1080p`. Make sure to use a PNG as the file type.
 
-**Note:** Please keep the final release file below 2 Megabyte to insure maximum compatibility. For this, it is recommended to compress any images used. This can easily be done online on a site like [tinypng.com](https://tinypng.com/).
-
 <br>
 
 <a name="3"></a>
 ## 3. Draft a new release with a version tag
 Create a new release for your theme in your forked repository. The download URL for that release will later be used to download the font. Create a new tag for your new release. Your first tag should always be v1.0.
+
+**Note:** Please keep the final release file below 2 Megabyte to insure maximum compatibility. For this, it is recommended to compress any images used. This can easily be done online on a site like [tinypng.com](https://tinypng.com/).
 
 <br>
 
