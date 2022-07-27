@@ -24,7 +24,9 @@ Customize the files to fit your idea.
 
 Default theme uses `prefers-color-scheme` to switch between dark and light mode. You can either keep this format and adjust the colors to your liking, or set one color theme for both modes.
 
-Make sure to include a preview image of your theme. This preview image should show both dark and light mode, if applicable. You may add custom text or descriptions to this image, just make it an adequate representation of your theme. Please keep this image in a `16:9` aspect ratio and don't scale it higher than `1920x1080p`.
+Make sure to include a preview image of your theme. This preview image should show both dark and light mode, if applicable. You may add custom text or descriptions to this image, just make it an adequate representation of your theme. Please keep this image in a `16:9` aspect ratio and don't scale it higher than `1920x1080p`. Make sure to use a PNG as the file type.
+
+**Note:** Please keep the final release file below 2 Megabyte to insure maximum compatibility. For this, it is recommended to compress any images used. This can easily be done online on a site like [tinypng.com](https://tinypng.com/).
 
 <br>
 
