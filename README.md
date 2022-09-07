@@ -60,6 +60,26 @@
 <!--End Galaxy-->
 
 
+<!--Begin Stargazer-->
+<br>
+<h2>Stargazer</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>A flashy theme with an animated background.</p>
+<p>A theme made as a thank you for the community.</p>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+</p>
+<!--Preview image from your fork-->
+<img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/stargazer/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Stargazer-->
+
 
 <!--Begin Minceraft-->
 <br>
