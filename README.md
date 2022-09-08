@@ -76,7 +76,7 @@
 <!--Preview image from your fork-->
 <img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/stargazer/archive/refs/tags/v1.0.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/stargazer/archive/refs/tags/v1.1.zip">Download</a></h3>
 <br>
 <!--End Stargazer-->
 
