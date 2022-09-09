@@ -61,6 +61,8 @@ Make a fork of this [template repository](https://github.com/JulianPrieber/llc-d
 
 Make sure to include a preview image of your theme. This preview image should show both dark and light mode, if applicable. You may add custom text or descriptions to this image, just make it an adequate representation of your theme. Please keep this image in a `16:9` aspect ratio and don't scale it higher than `1920x1080p`. Make sure to use a PNG as the file type.
 
+<br>
+
 ### 2.1 Edit the CSS
 
 Customize the files to fit your idea.
