@@ -4,7 +4,7 @@
 
 
 1. [Fork the template repository](#1) -> [github.com/JulianPrieber/llc-default](https://github.com/JulianPrieber/llc-default)
-2. [Edit the CSS](#2)
+2. [Edit the code](#2)
 3. [Draft a new release with a version tag](#3)
 4. [Open a new pull request or issue on this repository](#4)
 
