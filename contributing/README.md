@@ -78,7 +78,7 @@ Default theme uses `prefers-color-scheme` to switch between dark and light mode.
 The theme config allows you to configure how LittleLink Custom should treat your theme.
 All settings are explained with comments in the config file.
 
-If you edited your buttons in the previous your theme may not be compatible with custom buttons created by the Button Editor.
+If you edited your buttons in the previous step, your theme may not be compatible with custom buttons created by the Button Editor.
 You can disable the use of custom buttons in the config.
 
 If you want to use custom code like HTML, JavaScript or custom icons in your theme you can enable this here as well.
