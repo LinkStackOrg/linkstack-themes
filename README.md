@@ -9,6 +9,7 @@
 <ul>
   <li><a href="#themes">Download Themes</a></li>
   <ul><li><a href="#reskins">Reskins</a></li></ul>
+  <ul><li><a href="#themesv2">Themes V2</a></li></ul>
   <li><a href="#add-themes">How to add themes</a></li>
   <li><a href="#contribute">Contribute</a></li>
 </ul> 
@@ -280,6 +281,52 @@ Non-commercial use only.</p>
 <br>
 <!--End Sublime-->
 
+
+<br><br><br>
+<a name="themesv2"></a>
+<h1>🌌 Themes V2:</h1>
+<h3>Themes that make use of the new features of the Theme V2 update.</h3>
+<details>
+    <summary>Read more...</summary>
+
+Theme V2 is the update to the theme system that allows theme-makers to make use of long awaited features.
+
+**These features include:**
+- Ability to disable custom styled buttons created by the button editor.
+- Ability to open links in the same tab
+- Ability to use custom code such as Blade, PHP, HTML, JS and CSS
+- Ability to use custom assets and files such as CSS, JS or image files
+- Ability to add custom icons
+- Ability to make use of other file types for the custom icons instead of being limited to SVGs
+
+</details>
+
+<br>
+
+
+<!--Begin Polygon-->
+<br>
+<h2>Polygon</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Reskin source-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber2/galaxy">Galaxy</a>
+<!--Link to the source code-->
+<!--Short description-->
+<p>An animated interactive theme based on the theme "Galaxy" utilizing the new theme V2 update. This theme uses tsParticles to create an interactive random pattern of polygons.</p>
+<i><a href="https://github.com/JulianPrieber/polygon" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color="#FBDB00">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/polygon/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Polygon-->
 
 
 <a name="add-themes"></a>
