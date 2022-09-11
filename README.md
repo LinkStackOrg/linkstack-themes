@@ -9,6 +9,7 @@
 <ul>
   <li><a href="#themes">Download Themes</a></li>
   <ul><li><a href="#reskins">Reskins</a></li></ul>
+  <ul><li><a href="#themesv2">Themes V2</a></li></ul>
   <li><a href="#add-themes">How to add themes</a></li>
   <li><a href="#contribute">Contribute</a></li>
 </ul> 
@@ -26,6 +27,8 @@
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>The Mono Theme is a minimalist theme that resembles a terminal interface. Mono has a fixed dark background color and a monospaced font.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/mono" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -47,6 +50,8 @@
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber2/galaxy" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -68,6 +73,8 @@
 <!--Short description-->
 <p>A flashy theme with an animated background.</p>
 <p>A theme made as a thank you for the community.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/stargazer" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -88,6 +95,8 @@
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>Made to resemble the Minecraft title screen as closely as possible. The theme adds a rotating background image. Due to the assets, used this theme can only be used in a non-commercial environment.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/minceraft" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
@@ -115,6 +124,8 @@
   <img src="https://i.imgur.com/5ZgErqW.png" style="width:600px; max-width:100%; height:auto;">
   <br><br><br><br>
 </details>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/bean-soup" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -136,6 +147,8 @@
 <!--Short description-->
 <p>A Theme inspired by the game Sea of Thieves. The Theme resembles the look of the game as well as the official website SeaOfThieves.com. Names, artworks, as well as other assets used may be subject to copyright and belong to the Microsoft Cooperation. 
 Non-commercial use only.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/SoT" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -155,6 +168,8 @@ Non-commercial use only.</p>
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>Winter themed landscape with a falling snow animation in the background.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/winter-wonderland" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
@@ -175,6 +190,8 @@ Non-commercial use only.</p>
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
 <p>Minimalist theme with bright warm colors and light, inviting contrasts.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/flare" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
@@ -203,6 +220,8 @@ Non-commercial use only.</p>
 <strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
 <!--Short description-->
 <p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
+<!--Link to the source code-->
+<!--<i><a href="https://github.com/JulianPrieber/..." >Source code</a></i>-->
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
@@ -224,6 +243,8 @@ Non-commercial use only.</p>
 <strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
 <!--Short description-->
 <p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
+<!--Link to the source code-->
+<br><i><a href="https://github.com/JulianPrieber/llc-vanilla" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -244,8 +265,10 @@ Non-commercial use only.</p>
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Reskin source-->
 <strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/flare">Flare</a>
+<!--Link to the source code-->
 <!--Short description-->
 <p>A simple color swap of the minimalist theme Flare.</p>
+<i><a href="https://github.com/JulianPrieber/sublime" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
@@ -258,6 +281,52 @@ Non-commercial use only.</p>
 <br>
 <!--End Sublime-->
 
+
+<br><br><br>
+<a name="themesv2"></a>
+<h1>🌌 Themes V2:</h1>
+<h3>Themes that make use of the new features of the Theme V2 update.</h3>
+<details>
+    <summary>Read more...</summary>
+
+Theme V2 is the update to the theme system that allows theme-makers to make use of long awaited features.
+
+**These features include:**
+- Ability to disable custom styled buttons created by the button editor.
+- Ability to open links in the same tab
+- Ability to use custom code such as Blade, PHP, HTML, JS and CSS
+- Ability to use custom assets and files such as CSS, JS or image files
+- Ability to add custom icons
+- Ability to make use of other file types for the custom icons instead of being limited to SVGs
+
+</details>
+
+<br>
+
+
+<!--Begin Polygon-->
+<br>
+<h2>Polygon</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Reskin source-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber2/galaxy">Galaxy</a>
+<!--Link to the source code-->
+<!--Short description-->
+<p>An animated interactive theme based on the theme "Galaxy" utilizing the new theme V2 update. This theme uses tsParticles to create an interactive random pattern of polygons.</p>
+<i><a href="https://github.com/JulianPrieber/polygon" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color="#FBDB00">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/JulianPrieber/polygon/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Polygon-->
 
 
 <a name="add-themes"></a>
