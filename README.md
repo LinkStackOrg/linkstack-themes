@@ -324,7 +324,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/polygon/archive/refs/tags/v1.0.zip">Download</a></h3>
+<h3>&emsp;<a href="https://themes.littlelink-custom.com/polygon/polygon.zip">Download</a></h3>
 <br>
 <!--End Polygon-->
 
