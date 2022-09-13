@@ -178,7 +178,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.2.zip">Download</a></h3>
 <br>
 <!--End Winter Wonderland-->
 
@@ -200,7 +200,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.2.zip">Download</a></h3>
 <br>
 <!--End Winter Flare-->
 
@@ -277,7 +277,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.2.zip">Download</a></h3>
 <br>
 <!--End Sublime-->
 
