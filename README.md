@@ -221,15 +221,15 @@ Non-commercial use only.</p>
 <!--Short description-->
 <p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
 <!--Link to the source code-->
-<!--<i><a href="https://github.com/JulianPrieber/..." >Source code</a></i>-->
+<i><a href="https://github.com/LittleLink-Custom/Aurora" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://themes.littlelink-custom.com/aurora/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/LittleLink-Custom/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://themes.littlelink-custom.com/aurora/aurora-1.0.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/LittleLink-Custom/Aurora/archive/refs/tags/v1.1.zip">Download</a></h3>
 <br>
 <!--End Aurora-->
 
