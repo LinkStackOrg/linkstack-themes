@@ -291,13 +291,15 @@ Non-commercial use only.</p>
 
 Theme V2 is the update to the theme system that allows theme-makers to make use of long awaited features.
 
-**These features include:**
-- Ability to disable custom styled buttons created by the button editor.
-- Ability to open links in the same tab
-- Ability to use custom code such as Blade, PHP, HTML, JS and CSS
-- Ability to use custom assets and files such as CSS, JS or image files
-- Ability to add custom icons
-- Ability to make use of other file types for the custom icons instead of being limited to SVGs
+<strong>These features include:</strong>
+<ul>
+  <li>Ability to disable custom styled buttons created by the button editor</li>
+  <li>Ability to open links in the same tab</li>
+  <li>Ability to use custom code such as Blade, PHP, HTML, JS and CSS</li>
+  <li>Ability to use custom assets and files such as CSS, JS or image files</li>
+  <li>Ability to add custom icons</li>
+  <li>Ability to make use of other file types for the custom icons instead of being limited to SVGs</li>
+</ul> 
 
 </details>
 
