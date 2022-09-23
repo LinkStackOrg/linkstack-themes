@@ -37,7 +37,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/mono/archive/refs/tags/v1.3.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/mono/archive/refs/tags/v1.4.zip">Download</a></h3>
 <br>
 <!--End Mono-->
 
@@ -60,7 +60,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber2/galaxy/archive/refs/tags/v1.6.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber2/galaxy/archive/refs/tags/v1.7.zip">Download</a></h3>
 <br>
 <!--End Galaxy-->
 
@@ -105,7 +105,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.3.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.4.zip">Download</a></h3>
 <br>
 <!--End Minceraft-->
 
@@ -134,7 +134,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/bean-soup/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/bean-soup/archive/refs/tags/v1.2.zip">Download</a></h3>
 <br>
 <!--End Bean Soup-->
 
@@ -156,7 +156,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/SoT/archive/refs/tags/v1.4.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/SoT/archive/refs/tags/v1.5.zip">Download</a></h3>
 <br>
 <!--End SoT-->
 
@@ -178,7 +178,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.2.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.3.zip">Download</a></h3>
 <br>
 <!--End Winter Wonderland-->
 
@@ -200,7 +200,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.2.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.3.zip">Download</a></h3>
 <br>
 <!--End Winter Flare-->
 
@@ -277,7 +277,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.2.zip">Download</a></h3>
+<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.3.zip">Download</a></h3>
 <br>
 <!--End Sublime-->
 
