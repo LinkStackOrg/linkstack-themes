@@ -330,6 +330,30 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <br>
 <!--End Polygon-->
 
+<!--Begin Bongo Cat-->
+<br>
+<h2>Bongo Cat</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/MagicLike">MagicLike</a>
+<strong>Co-Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Reskin source-->
+<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber2/galaxy">Galaxy</a>
+<!--Link to the source code-->
+<!--Short description-->
+<p>The Bongo Cat theme is a reskin of the Galaxy theme and shows a coding bongo cat.</p>
+<i><a href="https://github.com/LittleLink-Custom/Bongo-Cat" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color="#FBDB00">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://github.com/LittleLink-Custom/Bongo-Cat/archive/refs/tags/v1.0.zip">Download</a></h3>
+<br>
+<!--End Bongo Cat-->
 
 <a name="add-themes"></a>
 <br><br>
