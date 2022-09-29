@@ -334,7 +334,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <br>
 <h2>Bongo Cat</h2>
 <!--Author-->
-<strong>Author: </strong><a href="https://github.com/MagicLike">MagicLike</a>
+<strong>Co-Author: </strong><a href="https://github.com/MagicLike">MagicLike</a>
 <strong>Co-Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Reskin source-->
 <strong>Reskin of: </strong><a href="https://github.com/JulianPrieber2/galaxy">Galaxy</a>
