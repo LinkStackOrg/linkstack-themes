@@ -321,7 +321,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
-<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color="#FBDB00">
+<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -346,7 +346,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <p>
 <img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
-<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color="#FBDB00">
+<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
