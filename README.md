@@ -37,7 +37,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/mono/archive/refs/tags/v1.4.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/mono">Download</a></h3>
 <br>
 <!--End Mono-->
 
@@ -60,7 +60,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber2/galaxy/archive/refs/tags/v1.7.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber2/galaxy">Download</a></h3>
 <br>
 <!--End Galaxy-->
 
@@ -83,7 +83,7 @@
 <!--Preview image from your fork-->
 <img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/stargazer/archive/refs/tags/v1.2.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/stargazer">Download</a></h3>
 <br>
 <!--End Stargazer-->
 
@@ -105,7 +105,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/minceraft/archive/refs/tags/v1.4.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/minceraft">Download</a></h3>
 <br>
 <!--End Minceraft-->
 
@@ -134,7 +134,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/bean-soup/archive/refs/tags/v1.2.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/bean-soup">Download</a></h3>
 <br>
 <!--End Bean Soup-->
 
@@ -156,7 +156,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/SoT/archive/refs/tags/v1.5.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/SoT">Download</a></h3>
 <br>
 <!--End SoT-->
 
@@ -178,7 +178,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/winter-wonderland/archive/refs/tags/v1.3.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/winter-wonderland">Download</a></h3>
 <br>
 <!--End Winter Wonderland-->
 
@@ -200,7 +200,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/flare/archive/refs/tags/v1.3.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/flare">Download</a></h3>
 <br>
 <!--End Winter Flare-->
 
@@ -229,7 +229,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/LittleLink-Custom/Aurora/archive/refs/tags/v1.2.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?LittleLink-Custom/Aurora">Download</a></h3>
 <br>
 <!--End Aurora-->
 
@@ -253,7 +253,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/llc-vanilla/archive/refs/tags/v1.1.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/llc-vanilla">Download</a></h3>
 <br>
 <!--End LLC Vanilla-->
 
@@ -277,7 +277,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/JulianPrieber/sublime/archive/refs/tags/v1.3.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/sublime">Download</a></h3>
 <br>
 <!--End Sublime-->
 
@@ -326,7 +326,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://themes.littlelink-custom.com/polygon/polygon.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/polygon">Download</a></h3>
 <br>
 <!--End Polygon-->
 
@@ -351,7 +351,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://github.com/LittleLink-Custom/Bongo-Cat/archive/refs/tags/v1.0.zip">Download</a></h3>
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?LittleLink-Custom/Bongo-Cat">Download</a></h3>
 <br>
 <!--End Bongo Cat-->
 
@@ -370,4 +370,4 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <h1>🫂 Contribute</h1>
 <h3>Contribute by making your own custom themes. Read more about this by clicking the link below.</h3>
 
-<a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a>
+<a href="https://t.littlelink-custom.com/?JulianPrieber/llc-themes">Learn more about contributing...</a>
