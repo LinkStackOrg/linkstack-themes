@@ -370,4 +370,4 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <h1>🫂 Contribute</h1>
 <h3>Contribute by making your own custom themes. Read more about this by clicking the link below.</h3>
 
-<a href="https://t.littlelink-custom.com/?JulianPrieber/llc-themes">Learn more about contributing...</a>
+<a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a>
