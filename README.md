@@ -31,8 +31,8 @@
 <i><a href="https://github.com/JulianPrieber/mono" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
@@ -54,8 +54,8 @@
 <i><a href="https://github.com/JulianPrieber2/galaxy" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -77,8 +77,8 @@
 <i><a href="https://github.com/JulianPrieber/stargazer" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
 <img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
@@ -99,8 +99,8 @@
 <i><a href="https://github.com/JulianPrieber/minceraft" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -128,8 +128,8 @@
 <i><a href="https://github.com/JulianPrieber/bean-soup" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -151,7 +151,7 @@ Non-commercial use only.</p>
 <i><a href="https://github.com/JulianPrieber/SoT" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -172,8 +172,8 @@ Non-commercial use only.</p>
 <i><a href="https://github.com/JulianPrieber/winter-wonderland" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -194,8 +194,8 @@ Non-commercial use only.</p>
 <i><a href="https://github.com/JulianPrieber/flare" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -224,7 +224,7 @@ Non-commercial use only.</p>
 <i><a href="https://github.com/LittleLink-Custom/Aurora" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -247,8 +247,8 @@ Non-commercial use only.</p>
 <br><i><a href="https://github.com/JulianPrieber/llc-vanilla" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -271,8 +271,8 @@ Non-commercial use only.</p>
 <i><a href="https://github.com/JulianPrieber/sublime" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">-->
-<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -319,9 +319,9 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <i><a href="https://github.com/JulianPrieber/polygon" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
-<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color=yellow">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
@@ -344,9 +344,9 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <i><a href="https://github.com/LittleLink-Custom/Bongo-Cat" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
-<img src="https://img.shields.io/static/v1?label=supports:&message=Dark Mode&color=000000">
-<!--<img src="https://img.shields.io/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
-<img src="https://img.shields.io/static/v1?label=requires:&message=JavaScript&color=yellow">
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
