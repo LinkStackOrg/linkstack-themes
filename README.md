@@ -355,6 +355,29 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <br>
 <!--End Bongo Cat-->
 
+<!--Begin Isaac-->
+<br>
+<h2>Isaac</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Link to the source code-->
+<!--Short description-->
+<p>A theme inspired by The Binding of Isaac game series.
+The theme features purely CSS animated background with flickering light effects.
+You can disable the flickering background in the theme config.</p>
+<i><a href="https://github.com/JulianPrieber/isaac" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/isaac/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/isaac">Download</a></h3>
+<br>
+<!--End Bongo Isaac-->
+
 <a name="add-themes"></a>
 <br><br>
 <h1>ℹ️ How to add themes</h1>
