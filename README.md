@@ -303,6 +303,27 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <br>
 <!--End Magic Kingdom-->
 
+<!--Begin Dark-->
+<br>
+<h2>Dark</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Short description-->
+<p>Dark is a minimalist theme with a gray color scheme.</p>
+<!--Link to the source code-->
+<i><a href="https://github.com/JulianPrieber/Dark" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/Dark/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/Dark">Download</a></h3>
+<br>
+<!--End Dark-->
+
 
 <br><br><br>
 <a name="themesv2"></a>
