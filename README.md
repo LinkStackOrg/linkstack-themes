@@ -37,7 +37,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/mono">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/mono">Download</a></h3>
 <br>
 <!--End Mono-->
 
@@ -60,7 +60,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber2/galaxy">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber2/galaxy">Download</a></h3>
 <br>
 <!--End Galaxy-->
 
@@ -83,7 +83,7 @@
 <!--Preview image from your fork-->
 <img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/stargazer">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/stargazer">Download</a></h3>
 <br>
 <!--End Stargazer-->
 
@@ -105,7 +105,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/minceraft">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/minceraft">Download</a></h3>
 <br>
 <!--End Minceraft-->
 
@@ -134,7 +134,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/bean-soup">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/bean-soup">Download</a></h3>
 <br>
 <!--End Bean Soup-->
 
@@ -156,7 +156,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/SoT">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/SoT">Download</a></h3>
 <br>
 <!--End SoT-->
 
@@ -178,7 +178,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/winter-wonderland">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/winter-wonderland">Download</a></h3>
 <br>
 <!--End Winter Wonderland-->
 
@@ -200,7 +200,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/flare">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/flare">Download</a></h3>
 <br>
 <!--End Winter Flare-->
 
@@ -229,7 +229,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?LittleLink-Custom/Aurora">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?LittleLink-Custom/Aurora">Download</a></h3>
 <br>
 <!--End Aurora-->
 
@@ -253,7 +253,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/llc-vanilla">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/llc-vanilla">Download</a></h3>
 <br>
 <!--End LLC Vanilla-->
 
@@ -277,7 +277,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/sublime">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/sublime">Download</a></h3>
 <br>
 <!--End Sublime-->
 
@@ -299,7 +299,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/Magic-Kingdom/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/Magic-Kingdom">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Magic-Kingdom">Download</a></h3>
 <br>
 <!--End Magic Kingdom-->
 
@@ -320,7 +320,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/Dark/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/Dark">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Dark">Download</a></h3>
 <br>
 <!--End Dark-->
 
@@ -369,7 +369,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/polygon">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/polygon">Download</a></h3>
 <br>
 <!--End Polygon-->
 
@@ -394,7 +394,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?LittleLink-Custom/Bongo-Cat">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?LittleLink-Custom/Bongo-Cat">Download</a></h3>
 <br>
 <!--End Bongo Cat-->
 
@@ -417,7 +417,7 @@ You can disable the flickering background in the theme config.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber/isaac/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.littlelink-custom.com/?JulianPrieber/isaac">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/isaac">Download</a></h3>
 <br>
 <!--End Bongo Isaac-->
 
