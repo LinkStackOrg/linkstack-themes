@@ -331,7 +331,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Short description-->
-<p>A flashy theme with an animated background.</p>
+<p>Reskin of Galaxy with a custom background image.</p>
 <!--Link to the source code-->
 <i><a href="https://github.com/JulianPrieber/Dawn" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
