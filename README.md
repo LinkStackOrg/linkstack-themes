@@ -394,6 +394,28 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <br>
 <!--End Polygon-->
 
+<!--Begin PolySleek-->
+<br>
+<h2>PolySleek</h2>
+<!--Author-->
+<strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
+<!--Link to the source code-->
+<!--Short description-->
+<p>PolySleek is a sleek and modern theme featuring dark colors and animated polygons. It utilizes Particles.js for added visual interest and is optimized for high performance on mobile devices.</p>
+<i><a href="https://github.com/JulianPrieber/PolySleek" >Source code</a></i>
+<!--If theme supports both dark and light mode uncomment both below-->
+<p>
+<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
+<!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
+<img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
+</p>
+<!--Preview image from your fork-->
+<img src="https://raw.githubusercontent.com/JulianPrieber/PolySleek/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<!--Download latest version-->
+<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/PolySleek">Download</a></h3>
+<br>
+<!--End PolySleek-->
+
 <!--Begin Bongo Cat-->
 <br>
 <h2>Bongo Cat</h2>
