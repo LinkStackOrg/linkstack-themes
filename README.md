@@ -28,14 +28,14 @@
 <!--Short description-->
 <p>The Mono Theme is a minimalist theme that resembles a terminal interface. Mono has a fixed dark background color and a monospaced font.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/mono" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/mono" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/mono">Download</a></h3>
 <br>
@@ -74,7 +74,7 @@
 <p>A flashy theme with an animated background.</p>
 <p>A theme made as a thank you for the community.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/stargazer" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/stargazer" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -96,14 +96,14 @@
 <!--Short description-->
 <p>Made to resemble the Minecraft title screen as closely as possible. The theme adds a rotating background image. Due to the assets, used this theme can only be used in a non-commercial environment.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/minceraft" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/minceraft" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/minceraft">Download</a></h3>
 <br>
@@ -125,14 +125,14 @@
   <br><br><br><br>
 </details>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/bean-soup" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/bean-soup" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/bean-soup">Download</a></h3>
 <br>
@@ -148,13 +148,13 @@
 <p>A Theme inspired by the game Sea of Thieves. The Theme resembles the look of the game as well as the official website SeaOfThieves.com. Names, artworks, as well as other assets used may be subject to copyright and belong to the Microsoft Cooperation. 
 Non-commercial use only.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/SoT" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/SoT" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/SoT">Download</a></h3>
 <br>
@@ -169,14 +169,14 @@ Non-commercial use only.</p>
 <!--Short description-->
 <p>Winter themed landscape with a falling snow animation in the background.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/winter-wonderland" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/winter-wonderland" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/winter-wonderland">Download</a></h3>
 <br>
@@ -191,14 +191,14 @@ Non-commercial use only.</p>
 <!--Short description-->
 <p>Minimalist theme with bright warm colors and light, inviting contrasts.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/flare" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/flare" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/flare">Download</a></h3>
 <br>
@@ -214,14 +214,14 @@ Non-commercial use only.</p>
 <p>About
 Magic Kingdom is an animated theme based on the work of Galaxy. It features an esthetic purple color scheme.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/Magic-Kingdom" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/Magic-Kingdom" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/Magic-Kingdom/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/Magic-Kingdom/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Magic-Kingdom">Download</a></h3>
 <br>
@@ -235,14 +235,14 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Short description-->
 <p>Dark is a minimalist theme with a gray color scheme.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/Dark" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/Dark" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/Dark/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/Dark/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Dark">Download</a></h3>
 <br>
@@ -261,7 +261,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://me.unraid.nz/@kiwi">KiwiSin</a>
 <!--Reskin source-->
-<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
+<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-default">Default Theme</a>
 <!--Short description-->
 <p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
 <!--Link to the source code-->
@@ -284,18 +284,18 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Reskin source-->
-<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/llc-default">Default Theme</a>
+<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-default">Default Theme</a>
 <!--Short description-->
 <p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
 <!--Link to the source code-->
-<br><i><a href="https://github.com/JulianPrieber/llc-vanilla" >Source code</a></i>
+<br><i><a href="https://github.com/linkstackorg/llc-vanilla" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/llc-vanilla">Download</a></h3>
 <br>
@@ -308,18 +308,18 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Reskin source-->
-<strong>Reskin of: </strong><a href="https://github.com/JulianPrieber/flare">Flare</a>
+<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/flare">Flare</a>
 <!--Link to the source code-->
 <!--Short description-->
 <p>A simple color swap of the minimalist theme Flare.</p>
-<i><a href="https://github.com/JulianPrieber/sublime" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/sublime" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/sublime">Download</a></h3>
 <br>
@@ -333,14 +333,14 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Short description-->
 <p>Reskin of Galaxy with a custom background image.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber/Dawn" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/Dawn" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">-->
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/Dawn/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/Dawn/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Dawn">Download</a></h3>
 <br>
@@ -380,7 +380,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Link to the source code-->
 <!--Short description-->
 <p>An animated interactive theme based on the theme "Galaxy" utilizing the new theme V2 update. This theme uses tsParticles to create an interactive random pattern of polygons.</p>
-<i><a href="https://github.com/JulianPrieber/polygon" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/polygon" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -388,7 +388,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/polygon">Download</a></h3>
 <br>
@@ -402,7 +402,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Link to the source code-->
 <!--Short description-->
 <p>PolySleek is a sleek and modern theme featuring dark colors and animated polygons. It utilizes Particles.js for added visual interest and is optimized for high performance on mobile devices.</p>
-<i><a href="https://github.com/JulianPrieber/PolySleek" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/PolySleek" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -410,7 +410,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/PolySleek/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/PolySleek/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/PolySleek">Download</a></h3>
 <br>
@@ -451,14 +451,14 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <p>A theme inspired by The Binding of Isaac game series.
 The theme features purely CSS animated background with flickering light effects.
 You can disable the flickering background in the theme config.</p>
-<i><a href="https://github.com/JulianPrieber/isaac" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/isaac" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber/isaac/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/isaac/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
 <h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/isaac">Download</a></h3>
 <br>
@@ -479,4 +479,4 @@ You can disable the flickering background in the theme config.</p>
 <h1>🫂 Contribute</h1>
 <h3>Contribute by making your own custom themes. Read more about this by clicking the link below.</h3>
 
-<a href="https://github.com/JulianPrieber/llc-themes/tree/main/contributing">Learn more about contributing...</a>
+<a href="https://github.com/linkstackorg/llc-themes/tree/main/contributing">Learn more about contributing...</a>
