@@ -3,7 +3,7 @@
 
 
 
-1. [Fork the template repository](#1) -> [github.com/JulianPrieber/llc-default](https://github.com/JulianPrieber/llc-default)
+1. [Fork the template repository](#1) -> [LinkStackOrg/linkstack-default-theme](https://github.com/LinkStackOrg/linkstack-default-theme)
 2. [Edit the code](#2)
 3. [Draft a new release with a version tag](#3)
 4. [Open a new pull request or issue on this repository](#4)
@@ -50,7 +50,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 
 <a name="1"></a>
 ## 1. Fork the template repository
-Make a fork of this [template repository](https://github.com/JulianPrieber/llc-default). Here you can find the theme files for the default theme.
+Make a fork of this [template repository](https://github.com/LinkStackOrg/linkstack-default-theme). Here you can find the theme files for the default theme.
 
 <br>
 
@@ -135,7 +135,7 @@ Down below, you can find a few examples using this function:
 
 ### 2.5 Add custom icons
 
-You can download all the icons used for the buttons from [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FJulianPrieber%2Flittlelink-custom%2Ftree%2Fmain%2Flittlelink%2Ficons).
+You can download all the icons used for the buttons from [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FLinkStackOrg%2FLinkSTack%2Ftree%2Fmain%2Flittlelink%2Ficons).
 
 For custom icons to apply you have to enable them in the config first.
 
@@ -149,14 +149,14 @@ You can use other file types like PNG, JPG, etc. by defining a custom file exten
 ## 3. Draft a new release with a version tag
 Create a new release for your theme in your forked repository. The download URL for that release will later be used to download the font. Create a new tag for your new release. Your first tag should always be v1.0.
 
-**Note:** Please keep the final release file below 2 Megabyte to insure maximum compatibility. For this, it is recommended to compress any images used. This can easily be done online on a site like [tinypng.com](https://tinypng.com/).
+**Note:** Please keep the final release file below 2 Megabyte to insure maximum compatibility. For this, it is recommended to compress any images used. This can easily be done online on a site like [tinypng.com](https://tinypng.com).
 
 <br>
 
 <a name="4"></a>
 ## 4. Open a new pull request or issue on this repository
-Once you followed all these steps, you may [open a pull request or issue](https://github.com/JulianPrieber/llc-themes) on this repository to get included in the official theme list.
+Once you followed all these steps, you may [open a pull request or issue](https://github.com/LinkStackOrg/linkstack-themes) on this repository to get included in the official theme list.
 
 <br>
 
-### [For any questions and easier communications, make sure to join our discord community](https://discord.littlelink-custom.com)
+### [For any questions and easier communications, make sure to join our discord community](https://discord.linkstack.org)
