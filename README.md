@@ -37,7 +37,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/mono/main/preview.png?token=GHSAT0AAAAAABUPCAZ7YGHA7RVG5LKLOIWOYUE5XFQ" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/mono">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/mono">Download</a></h3>
 <br>
 <!--End Mono-->
 
@@ -60,7 +60,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber2/galaxy">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg2/galaxy">Download</a></h3>
 <br>
 <!--End Galaxy-->
 
@@ -83,7 +83,7 @@
 <!--Preview image from your fork-->
 <img src="https://i.imgur.com/S84rKl4.gif" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/stargazer">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/stargazer">Download</a></h3>
 <br>
 <!--End Stargazer-->
 
@@ -105,7 +105,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/minceraft/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/minceraft">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/minceraft">Download</a></h3>
 <br>
 <!--End Minceraft-->
 
@@ -134,7 +134,7 @@
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/bean-soup/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/bean-soup">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/bean-soup">Download</a></h3>
 <br>
 <!--End Bean Soup-->
 
@@ -156,7 +156,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/SoT/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/SoT">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/SoT">Download</a></h3>
 <br>
 <!--End SoT-->
 
@@ -178,7 +178,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/winter-wonderland/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/winter-wonderland">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/winter-wonderland">Download</a></h3>
 <br>
 <!--End Winter Wonderland-->
 
@@ -200,7 +200,7 @@ Non-commercial use only.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/flare/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/flare">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/flare">Download</a></h3>
 <br>
 <!--End Winter Flare-->
 
@@ -223,7 +223,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/Magic-Kingdom/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Magic-Kingdom">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/Magic-Kingdom">Download</a></h3>
 <br>
 <!--End Magic Kingdom-->
 
@@ -244,7 +244,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/Dark/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Dark">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/Dark">Download</a></h3>
 <br>
 <!--End Dark-->
 
@@ -261,7 +261,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://me.unraid.nz/@kiwi">KiwiSin</a>
 <!--Reskin source-->
-<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-default">Default Theme</a>
+<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/linkstack-default-theme">Default Theme</a>
 <!--Short description-->
 <p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
 <!--Link to the source code-->
@@ -284,7 +284,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Author-->
 <strong>Author: </strong><a href="https://github.com/JulianPrieber">JulianPrieber</a>
 <!--Reskin source-->
-<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-default">Default Theme</a>
+<strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-vanilla">Default Theme</a>
 <!--Short description-->
 <p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
 <!--Link to the source code-->
@@ -295,9 +295,9 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/linkstackorg/llc-default/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/LinkStackOrg/llc-vanilla/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/llc-vanilla">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/llc-vanilla">Download</a></h3>
 <br>
 <!--End LLC Vanilla-->
 
@@ -321,7 +321,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/sublime/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/sublime">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/sublime">Download</a></h3>
 <br>
 <!--End Sublime-->
 
@@ -342,7 +342,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/Dawn/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/Dawn">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/Dawn">Download</a></h3>
 <br>
 <!--End Dawn-->
 
@@ -390,7 +390,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/polygon/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/polygon">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/polygon">Download</a></h3>
 <br>
 <!--End Polygon-->
 
@@ -412,7 +412,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/PolySleek/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/PolySleek">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/PolySleek">Download</a></h3>
 <br>
 <!--End PolySleek-->
 
@@ -460,7 +460,7 @@ You can disable the flickering background in the theme config.</p>
 <!--Preview image from your fork-->
 <img src="https://raw.githubusercontent.com/linkstackorg/isaac/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?JulianPrieber/isaac">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/isaac">Download</a></h3>
 <br>
 <!--End Bongo Isaac-->
 
