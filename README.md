@@ -265,15 +265,15 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Short description-->
 <p>Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/LittleLink-Custom/Aurora" >Source code</a></i>
+<i><a href="https://github.com/LinkStackOrg/Aurora" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/LittleLink-Custom/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/LinkStackOrg/Aurora/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?LittleLink-Custom/Aurora">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?LinkStackOrg/Aurora">Download</a></h3>
 <br>
 <!--End Aurora-->
 
@@ -286,7 +286,7 @@ Magic Kingdom is an animated theme based on the work of Galaxy. It features an e
 <!--Reskin source-->
 <strong>Reskin of: </strong><a href="https://github.com/linkstackorg/llc-vanilla">Default Theme</a>
 <!--Short description-->
-<p>This theme restores the default look and feel of LittleLink. No hover and fade in animations.</p>
+<p>This theme restores the default look and feel of LinkStack. No hover and fade in animations.</p>
 <!--Link to the source code-->
 <br><i><a href="https://github.com/linkstackorg/llc-vanilla" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
@@ -427,7 +427,7 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <!--Link to the source code-->
 <!--Short description-->
 <p>The Bongo Cat theme is a reskin of the Galaxy theme and shows a coding bongo cat.</p>
-<i><a href="https://github.com/LittleLink-Custom/Bongo-Cat" >Source code</a></i>
+<i><a href="https://github.com/LinkStackOrg/Bongo-Cat" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
@@ -435,9 +435,9 @@ Theme V2 is the update to the theme system that allows theme-makers to make use 
 <img src="https://img.llc.ovh/static/v1?label=requires:&message=JavaScript&color=yellow">
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/LittleLink-Custom/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/LinkStackOrg/Bongo-Cat/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?LittleLink-Custom/Bongo-Cat">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?LinkStackOrg/Bongo-Cat">Download</a></h3>
 <br>
 <!--End Bongo Cat-->
 
@@ -467,9 +467,9 @@ You can disable the flickering background in the theme config.</p>
 <a name="add-themes"></a>
 <br><br>
 <h1>ℹ️ How to add themes</h1>
-<h3>How to add themes to your LittleLink Custom instance</h3>
+<h3>How to add themes to your LinkStack instance</h3>
 
-<p>You can add your downloaded themes to your LittleLink Custom instance on the Admin Panel. Navigate to the 'Themes' tab and scroll to the bottom of the page.</p>
+<p>You can add your downloaded themes to your LinkStack instance on the Admin Panel. Navigate to the 'Themes' tab and scroll to the bottom of the page.</p>
 
 <p>Now click on Choose file and select your downloaded theme zip file. Now click on 'Upload theme' and you should be able to select your uploaded theme now. </p>
 
