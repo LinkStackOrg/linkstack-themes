@@ -1,0 +1,238 @@
+{
+    "themes": [
+      {
+        "name": "Mono",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "The Mono Theme is a minimalist theme that resembles a terminal interface. Mono has a fixed dark background color and a monospaced font.",
+        "sourceCode": "https://github.com/linkstackorg/mono",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/mono/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/mono"
+      },
+      {
+        "name": "Galaxy",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.",
+        "sourceCode": "https://github.com/linkstackorg/galaxy",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/galaxy/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/galaxy"
+      },
+      {
+        "name": "Stargazer",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "A flashy theme with an animated background. A theme made as a thank you for the community.",
+        "sourceCode": "https://github.com/linkstackorg/stargazer",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://i.imgur.com/S84rKl4.gif",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/stargazer"
+      },
+      {
+        "name": "Minceraft",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Made to resemble the Minecraft title screen as closely as possible. The theme adds a rotating background image. Due to the assets used, this theme can only be used in a non-commercial environment.",
+        "sourceCode": "https://github.com/linkstackorg/minceraft",
+        "supports": {
+          "lightMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/minceraft/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/minceraft"
+      },
+      {
+        "name": "Bean Soup",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Bean Soup resembles the logo of the VR title Beat Saber. This theme features animated button gradients and a glow effect on hover. The page description is used for the blue text, meaning setting a page description is effectively not possible with this theme.",
+        "sourceCode": "https://github.com/linkstackorg/bean-soup",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/bean-soup/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/bean-soup"
+      },
+      {
+        "name": "SoT",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "A Theme inspired by the game Sea of Thieves. The Theme resembles the look of the game as well as the official website SeaOfThieves.com. Names, artworks, as well as other assets used may be subject to copyright and belong to the Microsoft Cooperation. Non-commercial use only.",
+        "sourceCode": "https://github.com/linkstackorg/SoT",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/SoT/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/SoT"
+      },
+      {
+        "name": "Winter Wonderland",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Winter themed landscape with a falling snow animation in the background.",
+        "sourceCode": "https://github.com/linkstackorg/winter-wonderland",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/winter-wonderland/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/winter-wonderland"
+      },
+      {
+        "name": "Flare",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Minimalist theme with bright warm colors and light, inviting contrasts.",
+        "sourceCode": "https://github.com/linkstackorg/flare",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/flare/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/flare"
+      },
+      {
+        "name": "Magic Kingdom",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "About Magic Kingdom is an animated theme based on the work of Galaxy. It features an esthetic purple color scheme.",
+        "sourceCode": "https://github.com/linkstackorg/Magic-Kingdom",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/Magic-Kingdom/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/Magic-Kingdom"
+      },
+      {
+        "name": "Dark",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Dark is a minimalist theme with a gray color scheme.",
+        "sourceCode": "https://github.com/linkstackorg/Dark",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/Dark/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/Dark"
+      },
+      {
+        "name": "Aurora",
+        "author": "KiwiSin",
+        "authorURL": "https://me.unraid.nz/@kiwi",
+        "description": "Simplistic yet pride colored Arora over a Forrest suited for all resolutions mobile and desktop.",
+        "sourceCode": "https://github.com/LinkStackOrg/Aurora",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/Aurora/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?LinkStackOrg/Aurora"
+      },
+      {
+        "name": "LLC Vanilla",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "This theme restores the default look and feel of LinkStack. No hover and fade in animations.",
+        "sourceCode": "https://github.com/linkstackorg/llc-vanilla",
+        "supports": {
+          "colorMode": "auto",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/llc-vanilla/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/llc-vanilla"
+      },
+      {
+        "name": "Sublime",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "A simple color swap of the minimalist theme Flare.",
+        "sourceCode": "https://github.com/linkstackorg/sublime",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/sublime/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/sublime"
+      },
+      {
+        "name": "Dawn",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Reskin of Galaxy with a custom background image.",
+        "sourceCode": "https://github.com/linkstackorg/Dawn",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/Dawn/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/Dawn"
+      },
+      {
+        "name": "Polygon",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "An animated interactive theme based on the theme \"Galaxy\" utilizing the new theme V2 update. This theme uses tsParticles to create an interactive random pattern of polygons.",
+        "sourceCode": "https://github.com/linkstackorg/polygon",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/polygon/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/polygon"
+      },
+      {
+        "name": "PolySleek",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "PolySleek is a sleek and modern theme featuring dark colors and animated polygons. It utilizes Particles.js for added visual interest and is optimized for high performance on mobile devices.",
+        "sourceCode": "https://github.com/linkstackorg/PolySleek",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/PolySleek/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/PolySleek"
+      },
+      {
+        "name": "Bongo Cat",
+        "author": "LinkStack Team",
+        "authorURL": "https://github.com/linkstackorg",
+        "description": "The Bongo Cat theme is a reskin of the Galaxy theme and shows a coding bongo cat.",
+        "sourceCode": "https://github.com/LinkStackOrg/Bongo-Cat",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/Bongo-Cat/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?LinkStackOrg/Bongo-Cat"
+      },
+      {
+        "name": "Isaac",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "A theme inspired by The Binding of Isaac game series. The theme features purely CSS animated background with flickering light effects. You can disable the flickering background in the theme config.",
+        "sourceCode": "https://github.com/linkstackorg/isaac",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/linkstackorg/isaac/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/isaac"
+      }
+    ]
+  }
