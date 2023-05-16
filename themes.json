@@ -46,7 +46,7 @@
         "description": "Made to resemble the Minecraft title screen as closely as possible. The theme adds a rotating background image. Due to the assets used, this theme can only be used in a non-commercial environment.",
         "sourceCode": "https://github.com/linkstackorg/minceraft",
         "supports": {
-          "lightMode": "dark",
+          "colorMode": "light",
           "requiresJS": false
         },
         "previewImage": "https://raw.githubusercontent.com/linkstackorg/minceraft/main/preview.png",
