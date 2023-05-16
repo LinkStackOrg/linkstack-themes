@@ -51,16 +51,16 @@
 <!--Short description-->
 <p>Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.</p>
 <!--Link to the source code-->
-<i><a href="https://github.com/JulianPrieber2/galaxy" >Source code</a></i>
+<i><a href="https://github.com/linkstackorg/galaxy" >Source code</a></i>
 <!--If theme supports both dark and light mode uncomment both below-->
 <p>
 <img src="https://img.llc.ovh/static/v1?label=supports:&message=Dark Mode&color=000000">
 <!--<img src="https://img.llc.ovh/static/v1?label=supports:&message=Light Mode&color=FFFFFF">-->
 </p>
 <!--Preview image from your fork-->
-<img src="https://raw.githubusercontent.com/JulianPrieber2/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/linkstackorg/galaxy/main/preview.png" style="width:600px; max-width:100%; height:auto;">
 <!--Download latest version-->
-<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg2/galaxy">Download</a></h3>
+<h3>&emsp;<a href="https://t.llc.ovh/?linkstackorg/galaxy">Download</a></h3>
 <br>
 <!--End Galaxy-->
 
