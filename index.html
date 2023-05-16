@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Themes</title>
+</head>
+<body>
+  <div id="themesContainer"></div>
+
+  <script>
+    // Fetch the JSON data
+    fetch('https://raw.githubusercontent.com/LinkStackOrg/linkstack-themes/main/themes.json')
+      .then(response => response.json())
+      .then(data => {
+        const themes = data.themes;
+
+        // Iterate through each theme and generate HTML output
+        themes.forEach(theme => {
+          const name = theme.name;
+          const author = theme.author;
+          const authorURL = theme.authorURL;
+          const description = theme.description;
+          const sourceCode = theme.sourceCode;
+          const supports = theme.supports;
+          const previewImage = theme.previewImage;
+          const downloadLink = theme.downloadLink;
+
+          const container = document.getElementById('themesContainer');
+
+          // Create HTML elements and append to the container
+          const themeElement = document.createElement('div');
+
+          const nameElement = document.createElement('h2');
+          nameElement.textContent = name;
+
+          const authorElement = document.createElement('strong');
+          authorElement.textContent = 'Author: ';
+          const authorLink = document.createElement('a');
+          authorLink.href = authorURL;
+          authorLink.textContent = author;
+          authorElement.appendChild(authorLink);
+
+          const descriptionElement = document.createElement('p');
+          descriptionElement.textContent = description;
+
+          const sourceCodeElement = document.createElement('i');
+          const sourceCodeLink = document.createElement('a');
+          sourceCodeLink.href = sourceCode;
+          sourceCodeLink.textContent = 'Source code';
+          sourceCodeElement.appendChild(sourceCodeLink);
+
+          const supportsElement = document.createElement('p');
+          if (supports && supports.colorMode) {
+            const colorMode = supports.colorMode;
+            if (colorMode === 'dark') {
+              const darkModeBadge = createBadgeElement('Dark Mode', '000000');
+              supportsElement.appendChild(darkModeBadge);
+            } else if (colorMode === 'light') {
+              const lightModeBadge = createBadgeElement('Light Mode', 'FFFFFF');
+              supportsElement.appendChild(lightModeBadge);
+            } else if (colorMode === 'auto') {
+              const darkModeBadge = createBadgeElement('Dark Mode', '000000');
+              const lightModeBadge = createBadgeElement('Light Mode', 'FFFFFF');
+              supportsElement.appendChild(darkModeBadge);
+              supportsElement.appendChild(lightModeBadge);
+            }
+          }
+
+          const previewImageElement = document.createElement('img');
+          previewImageElement.src = previewImage;
+          previewImageElement.style.width = '600px';
+          previewImageElement.style.maxWidth = '100%';
+          previewImageElement.style.height = 'auto';
+
+          const downloadLinkElement = document.createElement('h3');
+          const downloadAnchor = document.createElement('a');
+          downloadAnchor.href = downloadLink;
+          downloadAnchor.textContent = 'Download';
+          downloadLinkElement.appendChild(downloadAnchor);
+
+          themeElement.appendChild(nameElement);
+          themeElement.appendChild(authorElement);
+          themeElement.appendChild(descriptionElement);
+          themeElement.appendChild(sourceCodeElement);
+          themeElement.appendChild(supportsElement);
+          themeElement.appendChild(previewImageElement);
+          themeElement.appendChild(downloadLinkElement);
+
+          container.appendChild(themeElement);
+        });
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+	  
+    // Helper function to create a badge element
+    function createBadgeElement(message, color) {
+      const badgeElement = document.createElement('img');
+      badgeElement.src = `https://img.llc.ovh/static/v1?label=supports:&message=${encodeURIComponent(message)}&color=${color}`;
+      return badgeElement;
+    }
+  </script>
+</body>
+</html>
