@@ -5,8 +5,9 @@
 
 <br>
 
-
-<a href="https://linkstack.org/themes"><img src="https://github.com/LinkStackOrg/linkstack-themes/assets/60265788/0ebe6fda-2752-43df-a9f2-796c193755a0" alt="Download Themes" width="380" ></a>
+<p>
+  <a href="https://linkstack.org/themes"><img src="https://i.imgur.com/dDFwSXC.png" alt="Download themes" width="380" ></a>
+</p>
 
 <br>
 
