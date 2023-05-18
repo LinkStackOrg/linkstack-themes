@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://linkstack.org/themes"><img src="https://i.imgur.com/dDFwSXC.png" alt="Download themes" width="380" ></a>
+<a href="https://linkstack.org/themes"><img src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/download_themes.png" alt="Download themes" width="380" ></a>
 
 &ensp;&ensp;&ensp;<a href="https://linkstackorg.github.io/linkstack-themes/"><ins>Alternative Site</ins></a>
 
