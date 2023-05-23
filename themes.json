@@ -233,6 +233,32 @@
         },
         "previewImage": "https://raw.githubusercontent.com/linkstackorg/isaac/main/preview.png",
         "downloadLink": "https://t.llc.ovh/?linkstackorg/isaac"
+      },
+      {
+        "name": "Misty Rain",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Misty Rain is a sleek, dark theme featuring a minimalist design with a serene rain backdrop in shades of gray-blue and a captivating raindrop animation.",
+        "sourceCode": "https://github.com/LinkStackOrg/Misty-Rain",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/Misty-Rain/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/Misty-Rain"
+      },
+      {
+        "name": "Cloudy Storm",
+        "author": "JulianPrieber",
+        "authorURL": "https://github.com/JulianPrieber",
+        "description": "Cloudy-Storm is a captivating dark theme featuring a lively animated thunderstorm as the backdrop.",
+        "sourceCode": "https://github.com/LinkStackOrg/Cloudy-Storm",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/Cloudy-Storm/main/preview.png",
+        "downloadLink": "https://t.llc.ovh/?linkstackorg/Cloudy-Storm"
       }
     ]
   }
