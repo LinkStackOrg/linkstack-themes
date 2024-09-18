@@ -259,6 +259,45 @@
         },
         "previewImage": "https://raw.githubusercontent.com/LinkStackOrg/Cloudy-Storm/main/preview.png",
         "downloadLink": "https://t.linkstack.org/?linkstackorg/Cloudy-Storm"
+      },
+      {
+        "name": "",
+        "author": "nekosheen",
+        "authorURL": "https://github.com/nekosheen",
+        "description": "A colorful theme for LinkStack.",
+        "sourceCode": "https://github.com/nekosheen/Rainbow",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/nekosheen/Rainbow/refs/heads/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?nekosheen/Rainbow"
+      },
+      {
+        "name": "",
+        "author": "nekosheen",
+        "authorURL": "https://github.com/nekosheen",
+        "description": "Soothing is a theme for LinkStack.",
+        "sourceCode": "https://github.com/nekosheen/Soothing",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/nekosheen/Soothing/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?nekosheen/Soothing"
+      },
+      {
+        "name": "",
+        "author": "nekosheen",
+        "authorURL": "https://github.com/nekosheen",
+        "description": "",
+        "sourceCode": "https://github.com/nekosheen/PaperBold",
+        "supports": {
+          "colorMode": "light",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/nekosheen/PaperBold/refs/heads/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?nekosheen/PaperBold"
       }
     ]
   }
