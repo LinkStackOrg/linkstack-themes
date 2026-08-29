@@ -303,7 +303,7 @@
         "name": "orbita",
         "author": "salomaoparkour",
         "authorURL": "https://github.com/salomaoparkour",
-        "description": "A dark glass card floating over an animated, interactive constellation with touch shockwaves.",
+        "description": "A dark theme with a switchable glass card, bevelled glass buttons, an animated interactive constellation, and touch shockwaves.",
         "sourceCode": "https://github.com/salomaoparkour/linkstack-orbita-theme",
         "supports": {
           "colorMode": "dark",
