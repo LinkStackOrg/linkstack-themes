@@ -298,6 +298,19 @@
         },
         "previewImage": "https://raw.githubusercontent.com/nekosheen/PaperBold/refs/heads/main/preview.png",
         "downloadLink": "https://t.linkstack.org/?nekosheen/PaperBold"
+      },
+      {
+        "name": "orbita",
+        "author": "salomaoparkour",
+        "authorURL": "https://github.com/salomaoparkour",
+        "description": "A dark glass card floating over an animated, interactive constellation with touch shockwaves.",
+        "sourceCode": "https://github.com/salomaoparkour/linkstack-orbita-theme",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": true
+        },
+        "previewImage": "https://raw.githubusercontent.com/salomaoparkour/linkstack-orbita-theme/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?salomaoparkour/linkstack-orbita-theme"
       }
     ]
   }
