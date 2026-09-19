@@ -298,6 +298,19 @@
         },
         "previewImage": "https://raw.githubusercontent.com/nekosheen/PaperBold/refs/heads/main/preview.png",
         "downloadLink": "https://t.linkstack.org/?nekosheen/PaperBold"
+      },
+      {
+        "name": "Catppuccin",
+        "author": "AlexIn-Tech",
+        "authorURL": "https://github.com/AlexIn-Tech",
+        "description": "A Catppuccin theme with all four flavors (Latte, Frappé, Macchiato and Mocha). It follows the system light/dark setting, and visitors can pick a flavor and accent color. Brand buttons and icons are recolored to match.",
+        "sourceCode": "https://github.com/AlexIn-Tech/linkstack-catppuccin-theme",
+        "supports": {
+          "colorMode": "auto",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/AlexIn-Tech/linkstack-catppuccin-theme/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?AlexIn-Tech/linkstack-catppuccin-theme"
       }
     ]
   }
