@@ -298,6 +298,19 @@
         },
         "previewImage": "https://raw.githubusercontent.com/nekosheen/PaperBold/refs/heads/main/preview.png",
         "downloadLink": "https://t.linkstack.org/?nekosheen/PaperBold"
+      },
+      {
+        "name": "Arcade",
+        "author": "PaulPio",
+        "authorURL": "https://github.com/PaulPio",
+        "description": "A dark retro arcade theme with pixel fonts (Press Start 2P and VT323), neon press-down buttons, CRT scanlines and a scrolling pixel starfield. With custom code enabled it adds a score HUD, an 8-bit click sound and a Konami code turbo mode. Each extra can be turned off in the theme config.",
+        "sourceCode": "https://github.com/PaulPio/LinkstackArcadeTheme",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/PaulPio/LinkstackArcadeTheme/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?PaulPio/LinkstackArcadeTheme"
       }
     ]
   }
