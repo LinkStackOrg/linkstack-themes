@@ -298,6 +298,19 @@
         },
         "previewImage": "https://raw.githubusercontent.com/nekosheen/PaperBold/refs/heads/main/preview.png",
         "downloadLink": "https://t.linkstack.org/?nekosheen/PaperBold"
+      },
+      {
+        "name": "DesertLife",
+        "author": "huntrw6",
+        "authorURL": "https://github.com/huntrw6",
+        "description": "A warm desert sunrise theme with the social icons, contact buttons and text blocks grouped below the link body and liquid glass buttons as the default.",
+        "sourceCode": "https://github.com/huntrw6/desertlife-linkstack-theme",
+        "supports": {
+          "colorMode": "dark",
+          "requiresJS": false
+        },
+        "previewImage": "https://raw.githubusercontent.com/huntrw6/desertlife-linkstack-theme/main/preview.png",
+        "downloadLink": "https://t.linkstack.org/?huntrw6/desertlife-linkstack-theme"
       }
     ]
   }
